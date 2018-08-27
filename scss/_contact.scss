@@ -20,6 +20,9 @@ section#contact {
       height: 248px;
     }
   }
+  .hidden-field {
+    display: none !important;
+  }
   .form-control:focus {
     border-color: $primary;
     box-shadow: none;

@@ -628,6 +628,10 @@ section#contact .form-group textarea.form-control {
   height: 248px;
 }
 
+section#contact .hidden-field {
+  display: none !important;
+}
+
 section#contact .form-control:focus {
   border-color: #fed136;
   box-shadow: none;
